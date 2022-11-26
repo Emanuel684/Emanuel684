@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **data science**
 
-- 👨‍💻 All of my projects are available at [https://main.d2l8v0kh8t3kh2.amplifyapp.com/home](https://main.d2l8v0kh8t3kh2.amplifyapp.com/home)
+- 👨‍💻 All of my projects are available at [https://main.d2l8v0kh8t3kh2.amplifyapp.com/home](https://dynamic-squirrel-6c7e9d.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/emanuel-acevedo-mu%C3%B1oz-1b062b204/](https://www.linkedin.com/in/emanuel-acevedo-mu%C3%B1oz-1b062b204/)
 
