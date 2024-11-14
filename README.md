@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Acevedo Muñoz</h1>
 <h3 align="center">A passionate software full stack developer, student in data science engineer</h3>
 
-- 🔭 I’m currently working on [Quipux](https://www.quipux.com/web/)
+- 🔭 I’m currently working on [Wizeline](https://www.wizeline.com/es/)
 
 - 🌱 I’m currently learning **Python, Aws**
 
